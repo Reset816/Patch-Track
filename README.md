@@ -14,3 +14,6 @@
 | Linux    | [[PATCH v3 0/3\] Kconfig: Add dependencies of POWER_RESET for x86](https://lore.kernel.org/all/cover.1694687048.git.tanyuan@tinylab.org/) | 3                 | 2023-09-14      | Under Review |
 | Linux    | [[PATCH v4 0/2\] Kconfig: Add dependencies of POWER_RESET for MIPS Malta](https://lore.kernel.org/all/cover.1694865711.git.tanyuan@tinylab.org/) | 2                 | 2023-09-16      | Under Review |
 | Linux    | [[PATCH v1 00/14\] DCE/DSE: Add Dead Syscalls Elimination support, part2](https://lore.kernel.org/all/cover.1699025537.git.tanyuan@tinylab.org/) | 14                | 2023-11-03      | Under Review |
+| Linux    | [[PATCH 1/1\] perf record: Fix memset out-of-range error](https://lore.kernel.org/lkml/11e12f171b846577cac698cd3999db3d7f6c4d03.1720372317.git.royenheart@gmail.com/) | 1                 | 2024-07-08      | Merged       |
+| Linux    | [[PATCH 1/1\] perf build x86: Fix SC2034 error in syscalltbl.sh](https://lore.kernel.org/lkml/2143cab4cd8468c88860f4e5e382d0e6b4d89ac9.1720372178.git.royenheart@gmail.com/) | 1                 | 2024-07-08      | Merged       |
+| Linux    | [[PATCH 1/1\] perf archive: unpack to correct dir given by perf](https://lore.kernel.org/lkml/18fa10628f1e037753244b438b2a08b20d611135.1720372219.git.royenheart@gmail.com/) | 1                 | 2024-07-08      | Under Review |
